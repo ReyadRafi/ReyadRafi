@@ -1,4 +1,3 @@
-
 <img src="https://i.ibb.co/1Yw70WfY/Chat-GPT-Image-Jan-30-2026-05-14-44-PM.png" />
 
 
@@ -34,3 +33,11 @@
 ## :page_facing_up:Languages
 <br />
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReyadRafi&layout=donut" alt="ReyadRafi" /></p>
+
+## 📊 **GITHUB CONTRIBUTIONS**
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ReyadRafi&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&area_color=61DAFB&line=38B2AC&point=FFFFFF" width="100%" alt="GitHub Activity Graph" />
+</div>
+
+---
